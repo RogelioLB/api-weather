@@ -1,0 +1,17 @@
+{
+  "name": "api-weather",
+  "version": "1.3.0",
+  "description": "Simple way to use OpenWeatherMap API.",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
